@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Alifa Maha Rizka | 2010631170047
 Yohanes Anjar Dewantara - 2010631170134
 [Andriani Nurian] - [2010631170002]
 - [Anisa Nur Hasanah] - [2010631170052]
