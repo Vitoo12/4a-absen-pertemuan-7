@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Anandito Rafi Putra - 2010631170137
 - Anisa Fitrianida Lutfiajati Pradhyani 2010631170003
 Jovanka Sandra Nathalie Silalahi - 2010631170133
 Almira Zahra - 2010631170048
