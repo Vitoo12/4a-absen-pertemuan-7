@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+Almira Zahra - 2010631170048
 - Altolyto Sitanggang - 2010631170049
 - [Alvi Yuniar] - [2010631170050]
  - Asyifa Maulana | 2010631170004
