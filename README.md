@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Dede Fitriyani] - [2010631170007]
 [Alif Karimullah] [2010631170046]
 - Anandito Rafi Putra - 2010631170137
 - Anisa Fitrianida Lutfiajati Pradhyani 2010631170003
