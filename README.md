@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 7
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Adrian Wibisono [2010631170043]
 - Ali Dongan Harahap | 2010631170045
 [Afifah Nur Sallamah] [2010631170001]
 [anisah]-[2010631170053]
