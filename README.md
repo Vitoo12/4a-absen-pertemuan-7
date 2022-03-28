@@ -2,3 +2,7 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - Ali Dongan Harahap | 2010631170045
+[Afifah Nur Sallamah] [2010631170001]
+[anisah]-[2010631170053]
+- Adrian Ramadhani 2010631170135
+- [Chintya Ana Tasya] - [2010631170005]
